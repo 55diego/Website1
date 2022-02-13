@@ -1,0 +1,11 @@
+body{
+    background: #F2F2F2;
+    margin: 0;
+    font-family: 'Gill Sans';
+}
+
+.navbar{
+    background: blue;
+    padding: 1em;
+    
+}
