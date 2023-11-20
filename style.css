@@ -69,3 +69,31 @@
     font-size: 40px;
     margin: 5px 0;
 }
+
+/* about me section */
+.about{
+    display: flex;
+    background: url("img/background.jpg") no-repeat center;
+    height: 100vh;
+    color: #fff;
+    min-height: 960px;
+}
+
+.about .max-width{
+    margin: auto 0 auto 40px;
+}
+
+.about .about-content .text-1{
+    font-size: 27px;
+}
+
+.about .about-content .text-2{
+    font-size: 75px;
+    font-weight: 600;
+    margin-left: -3px;
+}
+
+.about .about-content .text-3{
+    font-size: 40px;
+    margin: 5px 0;
+}
