@@ -76,7 +76,7 @@
     background: url("img/background.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
-    min-height: 960px;
+    max-height: auto;
 }
 
 .about .max-width{
